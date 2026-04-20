@@ -1,0 +1,261 @@
+Characters:
+- Jino: 15 year old Snowflake SQUAD Member
+- Victor: Jino's friend, 15 year old executive of Sprouters Club
+- Lyde: Same age as Mirai's, likes to speak French and sings with her melodic tone, not involved in organizations
+- Arushu (The Big A): Jino's other (aggressive) sidekick, that also loves New England Patriots and football (including fantasy football)
+- Maruna: Jino's classmate in Mathematics, loves English reading and writing
+- Kenny: Jino's sidekick, comes from Fukaya, Japan, now residing in Fremont
+- Molly-Ann (Barbu): Jino's sidekick, a Francophone who speaks English and also has a multilingual translator. She's an 8th grader.
+- Mayeria: Jino's fellow Snowflake pal, currently working at the Menlo Park office near the Dumbarton Bridge and Silicon Valley AI Hub
+- Earley: A Senior Developer Advocate who lead the Snowflake SQUAD
+- Vino: One of the developer advocates for Snowflake Cortex
+- Falke: The leader of the Snowflake Data Superheroes group residing in Japan
+- Mirai
+- Yuuki
+- Masami
+- Seiji
+(Note: Lyde, Arushu, Maruna, Kenny, and Molly-Ann aren't part of the Snowflake SQUAD)
+
+ACT 1, SCENE 1
+[Enter Jino, and his rest of his friends. It's February 6th, 2026, and school ended]
+Jino: So uh, guys? I know that we got some homework to do over the weekend.
+Arushu: I don't know. Maybe you should join the Little Club. You are responsible for making Yowa uncomfortable after you tried to "rizz" her up many times during lunch.
+Jino: Wah, no! What about you, Victor?
+Victor: I may go to San Francisco to attend a hackathon in the weekend, but I think I have other plans.
+Kenny: Me, we're going to a bowling alley in Milpitas where we can watch the Super Bowl between the Seahawks and the Patriots!
+Arushu: Great! Let's hope that the Patriots will win!
+Jino: Uh... I generally support the Seahawks because I like Seattle and its coffee.
+Arushu: Well, if you want to support them, then you'll support the Little Club.
+Jino: Ugh, don't talk about this all the whole dang time...
+Victor: Maruna, are you doing something during the weekend?
+Maruna: Nothing much, only spending my own time writing my journal.
+Jino: Well, guys... I'll see Lyde and Molly-Ann at a McDonalds near their middle school. I think they volunteered after the bell rang there.
+Victor / Arushu / Kenny / Maruna: See you, Jino!
+[All exit]
+
+ACT 1, SCENE 2
+[Lyde and Molly-Ann are enjoying their McFlurries at a McDonalds]
+Lyde: [In French] So, what do we learn about our volunteering near Thornton?
+Molly-Ann: [In French] All I remember is that we helped shelf books at the library, clean off unwanted items, and polish the computers.
+Lyde: [In French] Oh great. I hope that I'll do all of that when I'm free with you. By the way, I heard that there is some French festival in San Francisco, say, the Golden Gate Park. Do you want to join me?
+Molly-Ann: [In French] Uh...
+[Jino enters]
+Jino: [In French] Hello, my friends!
+Lyde / Molly-Ann: [In French] Hello! You good?
+Jino: [In French] I'm good, thanks. I have plans for Saturday.
+Lyde: [In French] Oh great! What is it?
+Jino: [In French] I was thinking about going to Niles to have our breakfast and shop around some antiques. I'd like to explore old fashioned train stuff and gas stations around it.
+Molly-Ann: [In French] That's interesting. It has a lot of history back then. Lyde, do you want to join Jino?
+Lyde: [In French] Yes! Looking forward to it!
+[Jino received a message from Mayeria via LinkedIn]
+Jino: [In French] Anyways... I gotta go. My Snowflake pal needed me to discuss this matter in Menlo Park. See you!
+Lyde / Molly-Ann: [In French] See you!
+[Jino exits]
+Lyde: [In French] I think he could improve how he pronounced his accents when he speaks French with us.
+Molly-Ann: [In French] At least he did great this time, compared to several days ago.
+
+ACT 1, SCENE 3(*)
+[Meanwhile in Tokyo, July 21st, 2012, the morning breaks. Mirai woke up and opens the door]
+Mirai: It's hot.
+Seiji: Good morning.
+Mirai: Yeah.
+Seiji: See you. [rubs Mirai's hair as she was agitated by it] I'm leaving! [exits]
+Yuuki: Please, Mama!
+Masami: Don't be so selfish, Yuu. I have work, so I can't take you.
+Yuuki: Then can I just go with Onee-chan instead?
+Masami: Just the two of you?!
+Mirai: [Looked at Masami and Yuuki, unsettled] What?
+[During breakfast, Mirai was upset about bringing Yuuki to the robot exhibition]
+Mirai: A robot exhibition?
+Masami: It's going on at Odaiba, apparently. Could you take him there for me?
+Mirai: I don't want to go to a robot exhibition. More like, why do I have to look after Yuuki?
+Yuuki: I--
+Masami: Why not? It's summer break. You didn't want to go to summer school, so you've got nothing to do, right?
+Mirai: [starts getting upset] Fine. I'll take him, all right? I'll take him. [slams her fork on the table]
+
+ACT 1, SCENE 4
+[Back in Bay Area, California (still February 6th, 2026), Jino met with Mayeria on top of the eighth floor of the Snowflake office in Menlo Park. They are chatting outside the patio with some refreshments]
+Earley: Mayeria and I would like to describe what happened on February 7th, 2026, 12 P.M. Japan Time in Nagoro.
+Jino: Go ahead.
+Mayeria: Falke assigned us and some of the Snowflake SQUADers and Data Superheroes to investigate abnormal from Nagoro, the village containing just dolls...
+Jino: Wait... why are your team were sent to Nagoro, given the fact that it's full of dolls or scarecrows there?
+Earley: Because... someone says that they witnessed pink mock-typhoons and some ghostly yellow spirit that pops out of nowhere, saying something we don't understand in Japanese.
+Mayeria: Then... we encountered a group of Kinsmen and the queen of the Kinito Collective. They started attacking us out of nowhere, wounding some of us.
+Jino: Wait... the Kinito Collective... Why did they attack you guys and what are their motives?
+Earley: Because... the Kinito Queen, Ariya, in my theory, is the "Anti-Onozawa" from the 2012 timeline that found her way to our time. Given that she lost her brother during the quake, she became vengeful for all of the catastrophe, and scapegoated her parents, her friends, and even us. Driven by her grief and all because of her unknown backstories... she wanted the Onozawa children to be held captive so that they'll make them suffer forever.
+Jino: So, as a Snowflake SQUADer here, how should I stop her?
+Mayeria: Since you have code abilities, you can stop her with your code base swords with the Snowflake Connectors. That way, you can be like Elsa or Frozone stopping any villain with the pink axolotl insignia.
+Jino: Noted. Well, I'll try to stop her, but I need to hang out with my friends first.
+Earley: No worries, if you encounter her in Fremont, feel free to call us so that we can intervene to stop that individual and her "minions".
+Jino: Got it.
+[Jino exits]
+Mayeria: I miss Falke and Vino...
+Earley: They're gone, right? I need to search their signals...
+
+ACT 1, SCENE 5(*)
+[In the 2012s Tokyo, July 21st, Mirai and Yuuki rode a train to Odaiba. Yuuki looks at the Rainbow Bridge]
+Yuuki: Onee-chan, look at the bridge!
+Mirai: Yeah...
+Yuuki: We came here before, right? Look at it!
+Mirai: [agitated] Geez, fine.
+[Mirai and Yuuki looked at the bridge as the train passes underneath it. Yuuki smiled. After that, the train approaches Daiba]
+Mirai: It's Odaiba. We're getting off.
+Yuuki: Huh?
+[Mirai and Yuuki exited the train in Daiba, and started walking]
+Yuuki: Onee-chan, let's take the bus.
+Mirai: We only got off at the station before Odaiba because you kept saying it was Odaiba. Just deal with it.
+Yuuki: It's hot.
+Mirai: [agitated] No, it's not.
+The Unknown Woman: It's hot!
+[Mirai and Yuuki saw the unknown woman leaning on her motorcycle, drinking something]
+Mirai: Come on.
+[Mirai and Yuuki exit]
+
+ACT 1, SCENE 6
+[The morning breaks in Fremont, California. It was February 7th, 2026, and Jino, Molly-Ann, Lyde are strolling around Niles after having breakfast there]
+Lyde: [In French] How's the breakfast at Skillet'z?
+Molly-Ann: [In French] I think it's delicious, what about you, Lyde and Jino?
+Jino: [In French] Their bacon and omelets taste good to me, but I like their coffee such that I want more of them...
+Lyde: [In French] Jino... I think you should stop drinking more of them... For me, though, it was amazing!
+Molly-Ann: [In French] Did you like the drinks there?
+Lyde: [In French] It's so-so for me. When we come back to here, you may refrain Jino from drinking too many coffee.
+Jino: [In French] Sometimes, when I say that I'm bored and you want to know why... It's all because that I drank a lot of coffee.
+Molly-Ann: [laughs a little, then in French] It's illogical, right?
+Jino: [In French] Kind-of... Caffeine could kill my appetite though.
+Lyde: [In French] And that's why you know.
+Jino: [remembers something, then in French] Wait, I think I remembered that Miss. Pacifio's birthday was yesterday, so I'd like to give her a present. An old-fashioned one. I'm going shopping for antiques, be right back!
+[Jino exits]
+Molly-Ann: [In French] We'll be waiting in the plaza with Lyde! [becomes optimistic] That's life, right?
+
+ACT 1, SCENE 7
+[Falke and Vino arrived at the Miraican, as they met six to eight SQUADers stranded in the 2012s Tokyo]
+Falke: Thanks goodness we found our SQUADers here.
+Vino: Turns out, we're alive with them after all the skirmish in Nagoro.
+[One of the SQUADers pointed to the robot exhibition that catches the attention]
+Falke: A Robot Exhibition in Tokyo... Great! We'll show what Snowflake will do with those robots there!
+[Falke and Vino exit; Mirai and Yuuki enter]
+Mirai: [In Japanese] This is what you wanted to see?
+Yuuki: [In Japanese] Yeah. Did you not want to come?
+Mirai: [In Japanese] Don't worry about it. Let's go.
+[Mirai and Yuuki exit]
+
+ACT 1, SCENE 8
+[In the exhibition, Falke, Vino, and the SQUADers explored all sorts of robots in the 2012s. Note that they blend with the visitors' summer clothes so that they won't be seen with Snowflake gear]
+Falke: Whoa...
+SQUADer #1: It's realistic! I can implement Snowflake when we see all sorts of humanoids, claws, and rover ones!
+Vino: There must be a way to do this... Turns out, we have the Snowflake Connectors for all of this!
+SQUADer #2: Let's keep exploring!
+SQUADer #3: Yeah, when we get back, let's talk to Mayeria about it!
+SQUADer #4: Great idea!
+[Mirai and Yuuki enter]
+Yuuki: [In Japanese] Look, Onee-chan! You can touch them!
+[Yuuki petted a robotic-cat. Falke noticed it]
+Falke: Those robotic cats and dogs... Didn't one of our sponsors have them?
+Vino: They have a big Boston Dynamics robo-dog in my knowledge.
+Yuuki: [In Japanese] It's so cute!
+[Mirai took a picture of him doing that on her cell phone. Yuuki then noticed the controlled robots]
+Yuuki: [In Japanese] They've got controllable ones over there!
+[While Yuuki played with the controllable robots, the SQUADers also played with it too]
+SQUADer #1: The controllable ones definitely have a knack there. Its capabilities involve radars that detect trapped civilians when disaster strikes. They also have four legs that absorb bumps, enabling them to safely maneuver through the rocky terrains from any crisis zone or natural stuff they knew.
+SQUADer #5: Will it be Snowflake-compatible?
+SQUADer #1: Let's find out!
+Yuuki: [In Japanese] You try it too, Onee-chan!
+[Mirai then controls the robot, as it zooms and tries to climb up the rocks, capturing the shock of others around her]
+SQUADer #6: I'd definitely not want to talk about this to Falke...
+[Mirai then makes the robot collide with another robot zooming by]
+SQUADer #1: Why is that person doing that to me?!
+Mirai: [In Japanese] It's pretty quick! 
+Yuuki: [In Japanese] You shouldn't be so rough with it, Onee-chan.
+Mirai: [In Japanese] It'll be fine.
+Stranger: [In Japanese] How long are you going to hog that thing?
+SQUADer #5: Uh, what did I see?
+SQUADer #1: Nothing much... Falke's calling us, we should go.
+[Falke, Vino, and the SQUADers exit]
+Stranger: [In Japanese] Could you hurry it up?
+[Mirai then turned around, agitated, and exits. Yuuki followed suit]
+
+ACT 1, SCENE 9(*)
+[Outside the robot exhibition, Mirai is having ice cream while sitting down. Yuuki finished some communication thing in the exhibition and walks to Mirai. She hands the ice cream to Yuuki]
+Yuuki: [In Japanese] Thanks.
+[Yuuki noticed that it was Mom's birthday yesterday]
+Yuuki: [In Japanese] Say, Onee-chan. Why don't we go buy a present for Mama together?
+[Mirai looked unsettled]
+Mirai: [In Japanese] I'm good. If she had come with us, I wouldn't have had to go through all the crummy things that have happened. They have always try to take advantage when it's just us kids.
+Yuuki: [In Japanese] But...
+Mirai: [In Japanese] And... I don't have money.
+Yuuki: [In Japanese] I have some!
+
+ACT 1, SCENE 10
+[Back in Fremont, notably in Niles, Jino enters an antique store in Niles]
+Jino: I heard that Miss. Pacifio likes pendants of any kind...
+[Jino continues to search, until he noticed the Froggy Pendant]
+Jino: Perfect!
+[Jino brings the froggy pendant to the counter]
+Shopkeeper: That'll be 5 dollars.
+[Jino scanned his debit card, and the shopkeeper gave it to Jino]
+Jino: Thanks!
+Shopkeeper: You're welcome!
+[Jino exits]
+
+ACT 1, SCENE 11(*)
+[Mirai and Yuuki arrived at the Marine Plaza, in some shop. They looked for keychains for their mom's present]
+Yuuki: Which one should we get her, Onee-chan?
+[Mirai saw the flower keychain]
+Mirai: How about that one?
+[Mirai was about to take it, but the Unknown Woman from SCENE 5 took it]
+Shopkeeper: That one's popular.
+The Unknown Woman: Oh, really?
+Shopkeeper: I guess something like this wouldn't be bad once in a while.
+[The Unknown Woman saw Mirai and Yuuki]
+The Unknown Woman: Sorry, did you want this by any chance?
+[Mirai blushed, then felt agitated]
+Mirai: No.
+The Unknown Woman: I'm sorry about that. [hands it to Mirai] Here. I think this is a little too flashy for our grandma, so...
+Mirai: It's okay.
+The Unknown Woman: Just take it.
+Mirai: It's fine, really.
+Yuuki: What about this one, Onee-chan?
+[Mirai blushed in humiliation, agitated]
+The Unknown Woman: This one looks nice, too. Are you getting it as a present for someone?
+Yuuki: Yeah. It's Mama's birthday.
+The Unknown Woman: That's so great. I'd definitely cry if my daughter gave something like this to me as a present.
+[The Unknown Woman hands the flower keychain to Yuuki]
+Yuuki: Thanks.
+The Unknown Woman: I hope your mom likes it. There's a lot of people around today, so be sure not to get lost, okay? See you.
+[The Unknown Woman exits]
+Mirai: Don't treat me like a kid.
+Yuuki: Let's get this one, Onee-chan. Mama likes flowers.
+Mirai: Do whatever you want.
+[Mirai smacked something to Yuuki's head in her agitation]
+
+ACT 1, SCENE 12(*)
+[Mirai and Yuuki was about to exit to the west wing of the Marine Plaza. Yuuki carries the present to Mom and his backpack]
+Yuuki: I need to go to the bathroom, Onee-chan!
+Mirai: Just go.
+Yuuki: Hold this to me.
+[Yuuki hands his backpack to Mirai]
+Mirai: Oh, buy me something to drink while you're at it. I'll be waiting outside.
+Yuuki: Yeah.
+[Mirai stands outside the gate]
+Mirai: It's so hot.
+[A kid bumps to Mirai with his ice-cream, making Mirai wince in embarassment]
+Stranger: Come on! Would you not stand around in front of the entrance? [giggles]
+
+ACT 1, SCENE 13(*)
+[Mirai went to the bathroom in Marine Plaza and cleans it up, then she crouches in agitation]
+Mirai: Geez. Why do annoying things like this keep happening?!
+
+ACT 1, SCENE 14(*)
+[Mirai waits outside at Marine Plaza for Yuuki. She looks outside seeing all of the fun around her]
+Mirai: [soliloquy]
+  Bad things keep happening day after day.
+  I wonder if anything good's ever going to happen in my life.
+  I'm sick of it all. Everything is a hassle.
+  Everything should just be destroyed.
+[Suddenly, a big earthquake in a scale of an 8 struck Tokyo, as Mirai witnessed the collapsing and swaying buildings around her while there is panic by many people]
+Mirai: No way!
+[The shaking intensified, making buildings and roadways collapsing, as well as the bridges near Mirai]
+Mirai: YUUKI!!!
+
+END
+(*) = All dialogue in this scene are spoken in Japanese
