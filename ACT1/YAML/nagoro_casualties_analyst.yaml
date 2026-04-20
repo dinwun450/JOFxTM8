@@ -1,0 +1,46 @@
+name: NAGORO_CASUALTIES_ANALYST
+tables:
+  - name: BATTLE_OF_NAGORO_STATS
+    description: The table contains records of casualties from a confrontation between two groups. Each record includes details about the individuals involved, such as their status and role within their respective divisions.
+    base_table:
+      database: TME_DB
+      schema: ACT1
+      table: BATTLE_OF_NAGORO_STATS
+    dimensions:
+      - name: DESCRIPTION
+        description: A description of the circumstances or status related to an individual's involvement in the Nagoro investigation or battle event.
+        expr: DESCRIPTION
+        data_type: VARCHAR(16777216)
+      - name: NAME
+        description: The name of a participant or entity involved in the battle statistics.
+        expr: NAME
+        data_type: VARCHAR(16777216)
+      - name: ROLE
+        description: The role or title assigned to a participant.
+        expr: ROLE
+        data_type: VARCHAR(16777216)
+      - name: SF_ID
+        description: Unique identifier for a strike force unit.
+        expr: SF_ID
+        data_type: VARCHAR(16777216)
+      - name: STATUS
+        description: The current operational or availability status of a participant or entity in the battle.
+        expr: STATUS
+        data_type: VARCHAR(16777216)
+    facts:
+      - name: STATUSES
+        synonyms:
+          - classifications
+          - conditions
+          - designations
+          - phases
+          - positions
+          - ranks
+          - situations
+          - stages
+          - standings
+          - states
+        description: The current operational or availability status of a participant or entity in the battle.
+        expr: STATUS
+        data_type: VARCHAR(16777216)
+        access_modifier: public_access
