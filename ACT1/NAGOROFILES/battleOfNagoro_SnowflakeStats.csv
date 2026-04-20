@@ -1,0 +1,35 @@
+SF-ID,Name,Status,Description,Role
+SFL-01,Falke,Unknown,Vaporized by Ariya,Leader
+SFL-02,Vino,Unknown,Vaporized after ramming Ariya,Leader
+SFL-03,Earley,Online,,Leader
+SFL-04,Mayeria,Online,,Leader
+SFL-05,Pierni,Online,,Leader
+SFL-06,Dash,Injured,Ambushed by Kinsmen,Leader
+SFSQ-01,Vishek,Online,,SQUADer
+SFSQ-02,Akori,Online,,SQUADer
+SFSQ-03,Cooper,Injured,Ambushed by Kinsmen,SQUADer
+SFSQ-04,Jino,Offline,Not involved in the Nagoro investigation,SQUADer
+SFSQ-05,Euphorie,Unknown,Vaporized by Kinsmen,SQUADer
+SFSQ-06,Oskov,Unknown,Vaporized by Kinsmen,SQUADer
+SFSQ-07,Kel,Unknown,Vaporized by Kinsmen,SQUADer
+SFSQ-08,Bo,Injured,,SQUADer
+SFSQ-09,Nyah,Injured,,SQUADer
+SFSQ-10,Pearl,Unknown,Vaporized by the Kinitos,SQUADer
+SFSQ-11,Raj,Unknown,Vaporized by the Kinitos,SQUADer
+SFSQ-12,Peter,Online,,SQUADer
+SFSQ-13,Aarthey,Online,,SQUADer
+SFSQ-14,Oscar,Online,,SQUADer
+SFDSH-01,Cesar,Unknown,Vaporized by the Kinitos,Data Superhero
+SFDSH-02,Angelica,Unknown,Vaporized by the Kinitos,Data Superhero
+SFDSH-03,Ikura,Unknown,Vaporized by the Kinitos,Data Superhero
+SFDSH-04,Flint,Injured,Ambushed by Kinsmen,Data Superhero
+SFDSH-05,Eric,Injured,Ambushed by Kinsmen,Data Superhero
+SFDSH-06,Ron,Injured,Ambushed by Kinsmen,Data Superhero
+SFDSH-07,Lucas,Unknown,Vaporized by the Kinitos,Data Superhero
+SFDSH-08,Kay,Unknown,Vaporized by the Kinitos,Data Superhero
+SFDSH-09,John,Unknown,Vaporized by the Kinitos,Data Superhero
+SFDSH-10,Hari,Unknown,Vaporized by the Kinitos,Data Superhero
+SFDSH-11,Sean,Online,,Data Superhero
+SFDSH-12,Tanish,Online,,Data Superhero
+SFDSH-13,Yong-Qi,Online,,Data Superhero
+SFDSH-14,Mike,Online,,Data Superhero
