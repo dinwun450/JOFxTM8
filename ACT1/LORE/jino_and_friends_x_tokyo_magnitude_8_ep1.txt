@@ -128,7 +128,7 @@ Jino: [remembers something, then in French] Wait, I think I remembered that Miss
 Molly-Ann: [In French] We'll be waiting in the plaza with Lyde! [becomes optimistic] That's life, right?
 
 ACT 1, SCENE 7
-[Falke and Vino arrived at the Miraican, as they met six to eight SQUADers stranded in the 2012s Tokyo]
+[Falke and Vino arrived at the Miraican, as they met five SQUADers stranded in the 2012s Tokyo]
 Falke: Thanks goodness we found our SQUADers here.
 Vino: Turns out, we're alive with them after all the skirmish in Nagoro.
 [One of the SQUADers pointed to the robot exhibition that catches the attention]
@@ -161,7 +161,7 @@ SQUADer #5: Will it be Snowflake-compatible?
 SQUADer #1: Let's find out!
 Yuuki: [In Japanese] You try it too, Onee-chan!
 [Mirai then controls the robot, as it zooms and tries to climb up the rocks, capturing the shock of others around her]
-SQUADer #6: I'd definitely not want to talk about this to Falke...
+SQUADer #5: I'd definitely not want to talk about this to Falke...
 [Mirai then makes the robot collide with another robot zooming by]
 SQUADer #1: Why is that person doing that to me?!
 Mirai: [In Japanese] It's pretty quick! 
